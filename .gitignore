@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Node.js dependencies
+node_modules/
+build/
+
+# IDE / OS files
+.vscode/
+.DS_Store
